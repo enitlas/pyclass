@@ -1,3 +1,3 @@
 # pyclass
 
-different edit
+edit to pyclass readme
